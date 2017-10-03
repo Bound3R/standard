@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="RULES-en.md">English</a> •
-  <a href="RULES-esla.md">Español (Latinoamérica)</a> •
+  <a href="RULES-esla.md">Español (Latinoamérica)</a>
+  [Español (Latinoamérica)](docs/RULES-esla.md) •
+  [Español Latinoamérica](docs/RULES-esla.md) •
   <a href="RULES-iteu.md">Italiano (Italian)</a> •
   <a href="RULES-kokr.md">한국어 (Korean)</a> •
   <a href="RULES-ptbr.md">Português (Brasil)</a> •
